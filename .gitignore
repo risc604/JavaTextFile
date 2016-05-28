@@ -48,3 +48,4 @@ Temporary Items
 .classpath
 bin/TextFile.class
 mlcDevices.txt
+/bin/
